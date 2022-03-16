@@ -91,12 +91,6 @@
     text-align: center;
     margin-bottom: 18px;
   }
-  .info-txt span{
-    color: red;
-  }
-  .info-txt span{
-      color: green;
-  }
   @media (max-width: 520px) {
     .wrapper{
       padding: 17px 20px 10px;
